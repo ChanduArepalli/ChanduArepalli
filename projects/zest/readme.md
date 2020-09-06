@@ -12,10 +12,9 @@ As the month of October sets in Lingaya’s Vidyapeeth (formerly known as LIMAT)
 
 ### Screenshots
 
-| ![Mobile Screenshot 1][mobile_img_1] | ![Mobile Screenshot 2][mobile_img_2] | ![Mobile Screenshot 3][mobile_img_3] | ![Mobile Screenshot 4][mobile_img_4] |
-|:---:|:---:|:---:|:---:|
-| ![Mobile Screenshot 5][mobile_img_5] | ![Mobile Screenshot 6][mobile_img_6] | ![Mobile Screenshot 7][mobile_img_7] |  
-
+| ![Zest Mobile Screen 1][mobile_img_1] | ![Zest Mobile Screen 1][mobile_img_2] | ![Zest Mobile Screen 1][mobile_img_3] |
+|:---:|:---:|:---:|
+| ![Zest Mobile Screen 1][mobile_img_5] | ![Zest Mobile Screen 1][mobile_img_6] | ![Zest Mobile Screen 1][mobile_img_7] |
 
 [play_store]: https://play.google.com/store/apps/details?id=com.chanduarepalli.zest&hl=en
 
@@ -26,3 +25,5 @@ As the month of October sets in Lingaya’s Vidyapeeth (formerly known as LIMAT)
 [mobile_img_5]: https://github.com/ChanduArepalli/ChanduArepalli/blob/master/projects/zest/mobile/screenshot_5.jpg?raw=true
 [mobile_img_6]: https://github.com/ChanduArepalli/ChanduArepalli/blob/master/projects/zest/mobile/screenshot_6.jpg?raw=true
 [mobile_img_7]: https://github.com/ChanduArepalli/ChanduArepalli/blob/master/projects/zest/mobile/screenshot_7.jpg?raw=true
+[mobile_img_8]: https://github.com/ChanduArepalli/ChanduArepalli/blob/master/projects/zest/mobile/screenshot_8.jpg?raw=true
+
