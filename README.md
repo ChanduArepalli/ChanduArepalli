@@ -41,4 +41,4 @@
 [linkedin]: https://www.linkedin.com/in/chandu-arepalli/
 [facebook]: https://facebook.com/Arepalli.Chandu
 
-[project_zest]: ./projects/zest/
+[project_zest]: https://github.com/ChanduArepalli/projects/zest/
