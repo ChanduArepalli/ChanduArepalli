@@ -1,10 +1,11 @@
 # ChanduAreplli
 
+<br/>
 
-### Languages, Frameworks and Tools
+#### Languages, Frameworks and Tools
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Dart" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg" />
+<img align="left" alt="Dart" width="26px" src="https://lh3.googleusercontent.com/proxy/EHFxqXRWaRE7J4DGITnz71wwaJ6G2zA-kK3IoyX6ZxnaRPhJkTGfE7KQkPMaeK_4F067-K5-f1iZz6d7nPqujeZhuHfoeiVRMq548agc0Nr-PraGBBY" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Django" width="26px" src="https://i0.wp.com/mariopeshev.com/wp-content/uploads/2010/05/1_1OBwwxzJksMv0YDD-XmyBw-e1536939901261.png?fit=1074%2C1164&ssl=1" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
@@ -15,27 +16,24 @@
 <br/>
 <br/>
 
----
 
-### Projects
+#### Projects
 
-- [Zest][project_zest]
+- [Zest (Webiste & Mobile Apllication)][project_zest]
 
 <br/>
 
-___
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="ChanduArepalli" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTChanduArepalliACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ChanduArepalli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ChanduArepalli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ChanduArepalli | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ChanduArepalli Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
----
 
 [website]: http://chanduArepalli.xyz
 [twitter]: https://twitter.com/ChanduArepalli_
