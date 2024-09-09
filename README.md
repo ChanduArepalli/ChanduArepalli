@@ -5,7 +5,7 @@
 #### Languages, Frameworks and Tools
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Dart" width="26px" src="https://lh3.googleusercontent.com/proxy/EHFxqXRWaRE7J4DGITnz71wwaJ6G2zA-kK3IoyX6ZxnaRPhJkTGfE7KQkPMaeK_4F067-K5-f1iZz6d7nPqujeZhuHfoeiVRMq548agc0Nr-PraGBBY" />
+<img align="left" alt="Dart" width="26px" src="https://lh3.googleusercontent.com/proxy/EHFxqXRWaRE7J4DGITnz71wwaJ6G2zA-kK3IoyX6ZxnaRPhJkTGfE7KQkPMaeK_4F067-K5-f1iZz6d7nPqujeZhuHfoeiVRMq548agc0Nr-PraGBBY](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Django" width="26px" src="https://i0.wp.com/mariopeshev.com/wp-content/uploads/2010/05/1_1OBwwxzJksMv0YDD-XmyBw-e1536939901261.png?fit=1074%2C1164&ssl=1" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
