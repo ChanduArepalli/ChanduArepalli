@@ -1,44 +1,78 @@
-# ChanduAreplli
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Chandu+Arepalli;Lead+Applications+Engineer;Data+Orchestration+Architect" alt="Typing SVG" />
+  <p>Architecting scalable backend systems, high-performance applications, and automated data pipelines.</p>
+</div>
 
 <br/>
 
-#### Languages, Frameworks and Tools
+## 👨‍💻 Engineering Profile
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Dart" width="26px" src="https://lh3.googleusercontent.com/proxy/EHFxqXRWaRE7J4DGITnz71wwaJ6G2zA-kK3IoyX6ZxnaRPhJkTGfE7KQkPMaeK_4F067-K5-f1iZz6d7nPqujeZhuHfoeiVRMq548agc0Nr-PraGBBY](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Django" width="26px" src="https://i0.wp.com/mariopeshev.com/wp-content/uploads/2010/05/1_1OBwwxzJksMv0YDD-XmyBw-e1536939901261.png?fit=1074%2C1164&ssl=1" />
-<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="PyCharm" width="26px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br/>
-<br/>
-
-
-#### Projects
-
-- [Zest (Webiste & Mobile Apllication)][project_zest]
+- 🚀 **Lead Applications Engineer** with over 5 years of professional experience designing and optimizing distributed system architectures.
+- 🛠️ Specializing in data engineering orchestration, system monitoring, and custom-tuned backend scaling.
+- 🌟 Creator and maintainer of **Markly** (Open Source).
+- 🌱 Currently driving performance optimizations across containerized microservices and exploring advanced data analytics pipelines.
+- 🔗 Explore my live work at [chanduarepalli.github.io](https://chanduarepalli.github.io).
 
 <br/>
 
+## 🛠️ Tech Stack & Pipeline Infrastructure
 
-#### Connect with me:
+**Languages & Core Frameworks**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-[<img align="left" alt="ChanduArepalli" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ChanduArepalli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ChanduArepalli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ChanduArepalli | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="ChanduArepalli Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**Data Orchestration, CI/CD & Systems**
+<br/>
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CE1?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-251E3E?style=for-the-badge&logo=dagster&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
 
-<br />
+<br/>
 
+## 🏗️ Pipeline Architecture Focus
 
-[website]: http://chanduArepalli.xyz
-[twitter]: https://twitter.com/ChanduArepalli_
-[instagram]: https://www.instagram.com/chandu_mani_kumar/
-[linkedin]: https://www.linkedin.com/in/chandu-arepalli/
-[facebook]: https://facebook.com/Arepalli.Chandu
+| Tool / Framework | Production Application Focus |
+| :--- | :--- |
+| **Apache Airflow** | Heavyweight enterprise ETL pipelines, scheduled data synchronization, and dependency mapping. |
+| **Dagster** | Asset-based data orchestration, data quality testing, and localized environment execution tracking. |
+| **n8n** | Event-driven workflow automation, webhooks integration, and rapid system-to-system messaging loops. |
 
-[project_zest]: https://github.com/ChanduArepalli/projects/zest/
+<br/>
+
+## 🚀 Featured Projects
+
+### 📖 [Markly](https://github.com/ChanduArepalli/markly) `Open Source`
+An open-source initiative dedicated to streamlining markdown generation and high-speed processing.
+- **Standards:** Code quality maintained via strict automated CI/CD validation rules.
+- **Role:** Creator & Lead Maintainer
+
+### 🍋 [Zest](https://github.com/ChanduArepalli/projects/zest/)
+A full-scale Web & Mobile Application ecosystem built for enterprise efficiency.
+- **Implementation:** Focused on seamless cross-platform logic integration, automated data pipelines, and robust backend data storage management.
+
+<br/>
+
+## 🌍 Links & Footprint
+
+<div align="center">
+  <a href="https://chanduarepalli.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/chandu-arepalli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ChanduArepalli_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://facebook.com/Arepalli.Chandu" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
